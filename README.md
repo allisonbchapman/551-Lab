@@ -1,3 +1,5 @@
+Testing branches
+
 # 551-Lab
 Practice with GitHub for IMT 551 at UW
 # Practice Section 1
